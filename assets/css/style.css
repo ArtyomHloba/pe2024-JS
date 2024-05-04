@@ -1,0 +1,15 @@
+* {
+    box-sizing: border-box;
+  }
+
+body{
+    padding: 10px;
+}
+
+h2{
+    display: inline;
+    color: white;
+    background-color: blue;
+    padding: 10px 10px;
+    border-radius: 10px;
+}
